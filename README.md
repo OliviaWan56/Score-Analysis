@@ -1,4 +1,4 @@
-# scoreanalysis
+#Score Analysis
 
 ## Motivation 
 
@@ -8,5 +8,6 @@ use Turkey to determine which combination produces the highest mean difference f
 ## Prerequisites
 
 [R Studio](https://rstudio.com/)
+
 [R](https://www.r-project.org/)
 
